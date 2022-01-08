@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-js6" alt="nikhil-js6" /></a> </p>
 
-- 🔭 I’m currently working on **Everything**
+- 🔭 I’m currently working on **Coffee**
 
 - 🌱 I’m currently learning **Something Dangerous**
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
+- 👯 I’m looking to collaborate on **Advanced Dev Projects**
 
 - 📫 How to reach me **nikhilpahal2001@gmail.com**
 
