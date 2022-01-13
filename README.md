@@ -37,7 +37,7 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YsOQ0FLppIgbSicnAzdHb6bsawZCgRlxzw&usqp=CAU" alt="express" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -58,7 +58,7 @@
        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTuO317NCjps00ZoBqzDFamnFVwm_m5aroVw&usqp=CAU" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
